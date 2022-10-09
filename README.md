@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marysteffim
-- 👀 I’m interested in Machine learning and Arificial Inteligence
+- 👀 I’m interested in Data cleaning, data visualization, Machine learning and Arificial Inteligence
 - 🌱 I’m currently learning model deployemnet
 - 💞️ I’m looking to collaborate on machine learning expertise
 - 📫 How to reach me contact me: 9444343804
